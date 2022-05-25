@@ -26,7 +26,7 @@ Mako==1.1.2
 markdown2==2.3.8
 profilehooks==1.11.2
 PyGithub==1.45
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-dateutil==2.8.1
 python-twitter==3.5
 rarfile==3.1
